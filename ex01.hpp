@@ -1,5 +1,5 @@
 template<typename T>
-void  multiples<T> (T& sum, T x, T n)
+void  multiples (T& sum, T x, int n)
 {
         sum+=1;
 
